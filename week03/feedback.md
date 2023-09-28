@@ -19,6 +19,6 @@ _Was your code readable, efficient, and in line with what we learned in class?_
 * Code written into functions where appropriate?
   * **Your functions are well written and nicely formatted, although I am curious why you used a different approach on 14.3 and 14.5.**
 * Appropriate comments with your code?
-  * **It's helpful to include code comments to explain what your code is doing**
+  * **Good code comments**
 * Generally easy to follow and undersand?
   * **Your code is easy to follow and understand**
