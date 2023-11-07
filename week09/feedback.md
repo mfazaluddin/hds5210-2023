@@ -10,7 +10,7 @@ This assignment was focused on the use of Python and Pandas to load and visualiz
 ## First Half: Interpretation and Feedback
 * 1pt - 41.1 **(-0.5)** You've made some correct statements about the data, but you have not identified a trend (what is happening over time).
 * 1pt - 41.2 - Okay.
-* 1pt - 41.1 **(-0.5)** You've made some correct statements about the data, but you have not really made interpretations and answered the questions.
+* 1pt - 41.3 **(-0.5)** You've made some correct statements about the data, but you have not really made interpretations and answered the questions.
 * 1pt - 41.4 - Okay.
 
 ## Second Half: 41.5
